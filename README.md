@@ -39,12 +39,9 @@ Send me Mail on sirajabdulazizumar@gmail.com <a/> 💼
 </p>
 <hr>
 
-### Github Statistic
-
-<p align="left">
-<a href="https://github.com/Saisyou404">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saisyou404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<h2 align="center">🔥 Github Statistic 🔥</h2>
+<p align="center">
+<a href="https://github.com/azizumar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-###
